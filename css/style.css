@@ -13,7 +13,7 @@ Dark green: #28b485
 }
 
 html {
-  font-size: 10px;
+  font-size: 62.5%;
 }
 
 body {
@@ -124,6 +124,7 @@ body {
   border-radius: 10rem;
   transition: all 0.2s ease;
   position: relative;
+  font-size: 1.6rem;
 }
 
 .btn:hover {
@@ -146,7 +147,7 @@ body {
   display: inline-block;
   height: 100%;
   width: 100%;
-  border-radius: 1rem;
+  border-radius: 10rem;
   position: absolute;
   top: 0;
   left: 0;
